@@ -11,12 +11,6 @@
 - 💻 C++, Python, Java, Kotlin, Android, ROS 2, PCL, OpenCV
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ReitaY&theme=onedark" alt="GitHub Trophy">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/ReitaY/ReitaY/main/profile-summary-card-output/2077/0-profile-details.svg">
   </a>
