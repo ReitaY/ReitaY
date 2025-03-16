@@ -10,10 +10,6 @@
 - 📊 Data Analysis & Machine Learnin
 - 💻 C++, Python, Java, Kotlin, Android, ROS 2, PCL, OpenCV
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReitaY&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReitaY&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ReitaY&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![](https://raw.githubusercontent.com/ReitaY/ReitaY/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
