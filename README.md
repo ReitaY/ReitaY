@@ -29,3 +29,9 @@
     <img src="https://raw.githubusercontent.com/ReitaY/ReitaY/main/profile-summary-card-output/2077/4-productive-time.svg">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ReitaY&theme=onedark" alt="GitHub Trophy">
+  </a>
+</p>
