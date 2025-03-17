@@ -10,7 +10,7 @@
 - 📊 Data Analysis & Machine Learning
 - 💻 C++, Python, Java, Kotlin, Android, ROS 2, PCL, OpenCV
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
