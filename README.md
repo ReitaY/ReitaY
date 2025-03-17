@@ -17,19 +17,19 @@
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/ReitaY/ReitaY/main/profile-summary-card-output/2077/0-profile-details.svg">
+    <img src="https://raw.githubusercontent.com/ReitaY/ReitaY/main/profile-summary-card-output/transparent/0-profile-details.svg">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/ReitaY/ReitaY/main/profile-summary-card-output/2077/1-repos-per-language.svg">
-    <img src="https://raw.githubusercontent.com/ReitaY/ReitaY/main/profile-summary-card-output/2077/4-productive-time.svg">
+    <img src="https://raw.githubusercontent.com/ReitaY/ReitaY/main/profile-summary-card-output/transparent/1-repos-per-language.svg">
+    <img src="https://raw.githubusercontent.com/ReitaY/ReitaY/main/profile-summary-card-output/transparent/4-productive-time.svg">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ReitaY&theme=onedark" alt="GitHub Trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ReitaY&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=norm&row=1&column=6&margin-w=15" alt="GitHub Trophy">
   </a>
 </p>
