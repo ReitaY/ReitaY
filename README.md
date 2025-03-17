@@ -9,8 +9,11 @@
 - 📡 LiDAR & Sensor Fusion
 - 📊 Data Analysis & Machine Learning
 - 💻 C++, Python, Java, Kotlin, Android, ROS 2, PCL, OpenCV
-
-![](./profile-3d-contrib/profile-gitblock.svg)
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/ReitaY/ReitaY/main/profile-3d-contrib/profile-gitblock.svg">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
@@ -21,13 +24,6 @@
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/ReitaY/ReitaY/main/profile-summary-card-output/2077/1-repos-per-language.svg">
-    <img src="https://raw.githubusercontent.com/ReitaY/ReitaY/main/profile-summary-card-output/2077/2-most-commit-language.svg">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/ReitaY/ReitaY/main/profile-summary-card-output/2077/3-stats.svg">
     <img src="https://raw.githubusercontent.com/ReitaY/ReitaY/main/profile-summary-card-output/2077/4-productive-time.svg">
   </a>
 </p>
