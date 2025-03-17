@@ -10,6 +10,8 @@
 - 📊 Data Analysis & Machine Learning
 - 💻 C++, Python, Java, Kotlin, Android, ROS 2, PCL, OpenCV
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/ReitaY/ReitaY/main/profile-summary-card-output/2077/0-profile-details.svg">
